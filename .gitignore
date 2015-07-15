@@ -1,0 +1,7 @@
+*.pyc
+*.swp
+big_IpSpan
+input.span
+output.txt
+small_IpSpan
+urls
